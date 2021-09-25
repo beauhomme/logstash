@@ -1,6 +1,6 @@
 # logstash
 
-This Logstash Configs are for custom Finacle Core Banking Logfiles
+This Logstash Configs are for custom Finacle Core Banking Logfiles. These include Finacle Web Access Logs, cbclogs, cdcilogs, uniserevtlogs etc
 
 #Architecture
 
